@@ -1241,6 +1241,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [Pantheon-Security/notebooklm-mcp-secure](https://github.com/Pantheon-Security/notebooklm-mcp-secure) 📇 🏠 🍎 🪟 🐧 - Query Google NotebookLM from Claude/AI agents with 14 security hardening layers. Session-based conversations, notebook library management, and source-grounded research responses.
 - [pminervini/deep-research-mcp](https://github.com/pminervini/deep-research-mcp) 🐍 ☁️ 🏠 - Deep research MCP server for OpenAI Responses API or Open Deep Research (smolagents), with web search and code interpreter support.
 - [thinkchainai/agentinterviews_mcp](https://github.com/thinkchainai/agentinterviews_mcp) - Conduct AI-powered qualitative research interviews and surveys at scale with [Agent Interviews](https://agentinterviews.com). Create interviewers, manage research projects, recruit participants, and analyze interview data through MCP.
+- [scite-ai/mcp](https://scite.ai/mcp) ☁️ - Ground answers in scientific literature with Smart Citations. Search full text of 280M+ articles, evaluate trust, and access full-text content.
 
 ### 🔎 <a name="RAG"></a>end to end RAG platforms
 
